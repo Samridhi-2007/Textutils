@@ -1,6 +1,6 @@
 # ✨ TextUtils - Your Smart Text Assistant
 
-TextUtils is a powerful and beautifully designed text transformation tool built with 💙 React.js. It offers smart features like text conversion, reading time estimates, typing speed tracking, and more — all in a smooth and responsive interface!
+TextUtils is a powerful and beautifully designed text transformation tool built with 💙Html css js. It offers smart features like text conversion, reading time estimates, typing speed tracking, and more — all in a smooth and responsive interface!
 
 🔧 Built as part of **Social Summer of Code 2025 (SSOC)** 🚀
 
@@ -21,6 +21,7 @@ TextUtils is a powerful and beautifully designed text transformation tool built 
 
 ## 🌐 Live Demo
 
+textutils-liard-nu.vercel.app
 
 
 ---
