@@ -1,4 +1,4 @@
-# ✨ TextUtils - Your Smart Text Assistant
+![Screenshot (257)](https://github.com/user-attachments/assets/8616e8da-9208-4b4a-89ee-7efea31fbf1e)# ✨ TextUtils - Your Smart Text Assistant
 
 TextUtils is a powerful and beautifully designed text transformation tool built with 💙Html css js. It offers smart features like text conversion, reading time estimates, typing speed tracking, and more — all in a smooth and responsive interface!
 
@@ -24,13 +24,14 @@ TextUtils is a powerful and beautifully designed text transformation tool built 
 textutils-liard-nu.vercel.app
 
 
+
 ---
 
 ## 📸 Screenshots
 
-> _(Add screenshots in the folder and link here if needed)_
+![Screenshot (257)](https://github.com/user-attachments/assets/dd079658-32a9-4c78-9fde-4bf7c7e54a2c)
 
----
+----
 
 ## 👩‍💻 Author
 
