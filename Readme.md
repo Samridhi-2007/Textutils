@@ -13,7 +13,7 @@ TextUtils is a powerful and beautifully designed text transformation tool built 
 - 📋 Copy text to clipboard
 - 🔁 Reverse your text
 - 🗣️ Text-to-Speech functionality
-- ⏱️ Reading time and typing speed estimator
+- ⏱️ Reading time 
 - 🌙 Dark/Light theme toggle
 - 💬 Real-time feedback form (saved using `localStorage`)
 
